@@ -1,0 +1,7 @@
+c:\users\user\source\repos\SqlDz\SqlDz\bin\Debug\SqlDz.exe.config
+c:\users\user\source\repos\SqlDz\SqlDz\bin\Debug\SqlDz.exe
+c:\users\user\source\repos\SqlDz\SqlDz\bin\Debug\SqlDz.pdb
+c:\users\user\source\repos\SqlDz\SqlDz\obj\Debug\SqlDz.csprojResolveAssemblyReference.cache
+c:\users\user\source\repos\SqlDz\SqlDz\obj\Debug\SqlDz.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\SqlDz\SqlDz\obj\Debug\SqlDz.exe
+c:\users\user\source\repos\SqlDz\SqlDz\obj\Debug\SqlDz.pdb
